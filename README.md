@@ -1,4 +1,4 @@
-# Word-Chain-Chatting-Server
+# Word Chain Chatting Server
 
 
 ### 끝말잇기 채팅 서버
